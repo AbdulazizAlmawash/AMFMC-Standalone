@@ -1,3 +1,22 @@
+## About Me
+
+👨‍💻 **Unity Enthusiast**: I’ve been using Unity since high school, building immersive experiences and experimenting with game mechanics. My journey with Unity has been a cornerstone of my development as a programmer and creator.
+
+🎓 **Professional Pilot & Aeronautical Technologist**: I hold a Bachelor’s degree in Aeronautical Technology - Professional Pilot from Kansas State University in Salina. In addition, I hold **Private Pilot**, **Instrument Rating (IR)**, **Commercial Pilot**, and **Multi-Engine Ratings**, offering firsthand experience in flight training that adds credibility and trust to my aviation-related projects.
+
+🎨 **3D Artist**: My 3D modeling journey began in high school, starting with Autodesk’s 123D Design at Neyar Private School in Riyadh. Over the years, I’ve honed my skills in Blender, crafting models that bring my creative visions to life.
+
+💻 **C# Developer**: I’ve been programming in C# since intermediate school, making it my go-to language for everything from game development to simulation projects.
+
+🎮 **Game Development Passion**: Whether it’s creating games, designing 3D models, or merging the two, I’ve always been driven by a passion for building interactive, engaging experiences.
+
+---
+
+🌟 With a love for both aviation and technology, and with real-world flight training experience, I’m on a mission to bring innovative ideas to life through code and creativity.
+
+
+---
+
 ![Airbus](https://upload.wikimedia.org/wikipedia/commons/2/24/Airbus_logo_2017.png)
 
 
