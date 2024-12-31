@@ -42,6 +42,7 @@ This image showcases the interface of the virtual A320 FMC. Stay tuned for more 
 To run the **Virtual A320 FMC** application, follow these steps:
 
 1. **Download and Extract**:
+   - Click on <Code> in the upper-right corner of the page.
    - Download the ZIP file containing the app files.
    - Extract the contents to a folder on your computer.
 
