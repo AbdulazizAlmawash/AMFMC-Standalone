@@ -53,6 +53,7 @@ This project includes the following core components:
 ![FMC Preview](https://github.com/FSGAM3R/AMFMC-Standalone/releases/download/v1.0.2/FMC.Preview.png "Virtual A320 FMC Preview")
 
 This image showcases the interface of the virtual A320 FMC. Stay tuned for more updates and improvements!
+
 تعرض هذه الصورة واجهة جهاز FMC الافتراضي لطائرة A320. ترقبوا المزيد من التحديثات والتحسينات!
 
 ---
