@@ -1,4 +1,4 @@
-![Abdulaziz Almawash](https://i.ytimg.com/vi/A2xfxXdpZnE/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgVyg8MA8=&rs=AOn4CLD2jRxscavf-5h6pVMg8X-8-gDekA "Abdulaziz Almawash")
+![Abdulaziz Almawash]([https://i.ytimg.com/vi/A2xfxXdpZnE/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgVyg8MA8=&rs=AOn4CLD2jRxscavf-5h6pVMg8X-8-gDekA](https://upload.wikimedia.org/wikipedia/commons/2/24/Airbus_logo_2017.png) "Abdulaziz Almawash")
 
 
 # AMFMC: A Virtual A320 Flight Management Computer (FMC)
