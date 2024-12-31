@@ -48,7 +48,7 @@ This is a **false positive** caused by the way the app is packaged or how certai
 - Verify the integrity of the files by ensuring you download only from the [official releases](https://github.com/FSGAM3R/AMFMC-Standalone/releases).
 - Contact us if you have concerns or need further clarification.
 
-I appreciate your understanding and are working to minimize such issues in future releases.
+I appreciate your understanding and am working to minimize such issues in future releases.
 
 ---
 
