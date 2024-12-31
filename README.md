@@ -1,3 +1,15 @@
+![Airbus](https://upload.wikimedia.org/wikipedia/commons/2/24/Airbus_logo_2017.png)
+
+
+# AMFMC: A Virtual A320 Flight Management Computer (FMC)
+
+Welcome to the **Virtual A320 FMC** project! This is a work-in-progress application designed to simulate the functionality of an Airbus A320's Flight Management Computer (FMC) in a virtual environment. 
+Built using **Unity** and **C#**, the goal is to create an interactive and customizable FMC experience for aviation enthusiasts and students.
+
+مرحبًا بكم في مشروع Virtual A320 FMC! هذا تطبيق قيد التطوير مصمم لمحاكاة وظائف جهاز إدارة الرحلة (FMC) لطائرة إيرباص A320 في بيئة افتراضية.
+تم تطويره باستخدام Unity و C#، والهدف هو إنشاء تجربة تفاعلية وقابلة للتخصيص لجهاز FMC مخصصة لعشاق الطيران والطلاب.
+---
+
 ## About Me
 
 👨‍💻 **Unity Enthusiast**: I’ve been using Unity since high school, building immersive experiences and experimenting with game mechanics. My journey with Unity has been a cornerstone of my development as a programmer and creator.
@@ -14,22 +26,10 @@
 
 🌟 With a love for both aviation and technology, and with real-world flight training experience, I’m on a mission to bring innovative ideas to life through code and creativity.
 
-
 ---
 
-![Airbus](https://upload.wikimedia.org/wikipedia/commons/2/24/Airbus_logo_2017.png)
 
-
-# AMFMC: A Virtual A320 Flight Management Computer (FMC)
-
-Welcome to the **Virtual A320 FMC** project! This is a work-in-progress application designed to simulate the functionality of an Airbus A320's Flight Management Computer (FMC) in a virtual environment. 
-Built using **Unity** and **C#**, the goal is to create an interactive and customizable FMC experience for aviation enthusiasts and students.
-
-مرحبًا بكم في مشروع Virtual A320 FMC! هذا تطبيق قيد التطوير مصمم لمحاكاة وظائف جهاز إدارة الرحلة (FMC) لطائرة إيرباص A320 في بيئة افتراضية.
-تم تطويره باستخدام Unity و C#، والهدف هو إنشاء تجربة تفاعلية وقابلة للتخصيص لجهاز FMC مخصصة لعشاق الطيران والطلاب.
----
-
-## Features
+## App Features
 
 - 🛫 **Realistic FMC Interface**: Mimics the look and feel of the A320 FMC.
 - 🔤 **Dynamic Input System**: Handles various FMC button states and page-specific inputs.
@@ -37,7 +37,7 @@ Built using **Unity** and **C#**, the goal is to create an interactive and custo
 - 📜 **Scriptable Object Design**: Modular structure for easier feature expansion and customization.
 - 🛠️ **Backend Integration**: Processes and writes flight-related data in real-time.
 
-## الميزات
+## مميزات التطبيق
 
 - 🛫 **واجهة FMC واقعية**: تحاكي مظهر ووظائف جهاز FMC لطائرة A320.
 - 🔤 **نظام إدخال ديناميكي**: يتعامل مع حالات الأزرار المختلفة والإدخالات الخاصة بكل صفحة.
