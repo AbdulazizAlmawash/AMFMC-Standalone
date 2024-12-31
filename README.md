@@ -129,6 +129,15 @@ Enjoy exploring the Virtual A320 FMC! ✈️
 4. **اختياري**: إذا واجهت أي مشاكل، راجع ملف `README.md` للحصول على نصائح لحل المشكلات أو تواصل معنا للحصول على الدعم.
 
 ---
+## Join the Discussion الاقتراحات والملاحظات
+
+💬 Have questions, feedback, or ideas about the **Virtual A320 FMC** project? Join the conversation in our [GitHub Discussions](https://github.com/FSGAM3R/AMFMC-Standalone/discussions/1)!  
+Your input is valuable in improving and shaping the project. We look forward to hearing from you!
+## انضم إلى النقاش
+
+💬 هل لديك أسئلة أو ملاحظات أو أفكار حول مشروع **Virtual A320 FMC**؟ انضم إلى المحادثة في [مناقشات GitHub](https://github.com/FSGAM3R/AMFMC-Standalone/discussions/1)!  
+مشاركتك مهمة لتحسين المشروع وتطويره. نتطلع لسماع آرائكم!
+---
 
 ![Abdulaziz Almawash](https://i.ytimg.com/vi/A2xfxXdpZnE/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgVyg8MA8=&rs=AOn4CLD2jRxscavf-5h6pVMg8X-8-gDekA "Abdulaziz Almawash")
 ## Follow My Journey on YouTube
