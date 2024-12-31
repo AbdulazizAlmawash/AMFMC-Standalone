@@ -37,6 +37,21 @@ This image showcases the interface of the virtual A320 FMC. Stay tuned for more 
 
 ---
 
+## Important Note: Antivirus False Positives
+
+🚨 **Antivirus Alert**: Some antivirus programs may flag the `AMFMC.exe` or other files in this application as potentially harmful. 
+
+This is a **false positive** caused by the way the app is packaged or how certain files are bundled. Rest assured, the app is safe to use if downloaded from this repository.
+
+### What You Can Do:
+- Add the app folder to your antivirus program's **exclusion list**.
+- Verify the integrity of the files by ensuring you download only from the [official releases](https://github.com/FSGAM3R/AMFMC-Standalone/releases).
+- Contact us if you have concerns or need further clarification.
+
+I appreciate your understanding and are working to minimize such issues in future releases.
+
+---
+
 ## How to Launch the App
 
 To run the **Virtual A320 FMC** application, follow these steps:
