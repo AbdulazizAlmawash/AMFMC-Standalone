@@ -48,7 +48,7 @@ This project includes the following core components:
 
 ---
 
-## FMC Preview
+## FMC Preview الواجهة
 
 ![FMC Preview](https://github.com/FSGAM3R/AMFMC-Standalone/releases/download/v1.0.2/FMC.Preview.png "Virtual A320 FMC Preview")
 
