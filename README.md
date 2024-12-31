@@ -28,7 +28,6 @@ This project includes the following core components:
 4. **Dynamic Pages**: FMC pages that adapt based on user interactions and data.
 
 ![Abdulaziz Almawash](https://i.ytimg.com/vi/A2xfxXdpZnE/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgVyg8MA8=&rs=AOn4CLD2jRxscavf-5h6pVMg8X-8-gDekA "Abdulaziz Almawash")
-## Youtube Channel
-I'm honored to accompany you on your journey in learning more about flying! 
-Please visit my Youtube channel following this link:
-m.youtube.com/@AbdulazizAlmawash
+## Follow My Journey on YouTube
+
+🎥 Check out my YouTube channel, **[Abdulaziz Almawash](https://www.youtube.com/@AbdulazizAlmawash?app=desktop)**, where I share updates about this project, tutorials, and other aviation-related content!
