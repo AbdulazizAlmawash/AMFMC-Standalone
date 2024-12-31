@@ -1,4 +1,6 @@
 ![Abdulaziz Almawash](https://i.ytimg.com/vi/A2xfxXdpZnE/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgVyg8MA8=&rs=AOn4CLD2jRxscavf-5h6pVMg8X-8-gDekA "Abdulaziz Almawash")
+
+
 # AMFMC: A Virtual A320 Flight Management Computer (FMC)
 
 Welcome to the **Virtual A320 FMC** project! This is a work-in-progress application designed to simulate the functionality of an Airbus A320's Flight Management Computer (FMC) in a virtual environment. 
@@ -24,3 +26,9 @@ This project includes the following core components:
 2. **Data Management**: script to handle backend flight data.
 3. **JSON Database**: Storing and managing airport and navigation data.
 4. **Dynamic Pages**: FMC pages that adapt based on user interactions and data.
+
+![Abdulaziz Almawash](https://i.ytimg.com/vi/A2xfxXdpZnE/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgVyg8MA8=&rs=AOn4CLD2jRxscavf-5h6pVMg8X-8-gDekA "Abdulaziz Almawash")
+## Youtube Channel
+I'm honored to accompany you on your journey in learning more about flying! 
+Please visit my Youtube channel following this link:
+m.youtube.com/@AbdulazizAlmawash
