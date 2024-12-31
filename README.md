@@ -5,6 +5,7 @@
 
 Welcome to the **Virtual A320 FMC** project! This is a work-in-progress application designed to simulate the functionality of an Airbus A320's Flight Management Computer (FMC) in a virtual environment. 
 Built using **Unity** and **C#**, the goal is to create an interactive and customizable FMC experience for aviation enthusiasts and students.
+
 مرحبًا بكم في مشروع Virtual A320 FMC! هذا تطبيق قيد التطوير مصمم لمحاكاة وظائف جهاز إدارة الرحلة (FMC) لطائرة إيرباص A320 في بيئة افتراضية.
 تم تطويره باستخدام Unity و C#، والهدف هو إنشاء تجربة تفاعلية وقابلة للتخصيص لجهاز FMC مخصصة لعشاق الطيران والطلاب.
 ---
@@ -35,7 +36,6 @@ This project includes the following core components:
 2. **Data Management**: script to handle backend flight data.
 3. **JSON Database**: Storing and managing airport and navigation data.
 4. **Dynamic Pages**: FMC pages that adapt based on user interactions and data.
-
 
 ## هيكلية المشروع
 
