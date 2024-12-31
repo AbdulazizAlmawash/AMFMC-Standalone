@@ -1,4 +1,4 @@
-# Virtual A320 Flight Management Computer (FMC)
+# AMFMC: A Virtual A320 Flight Management Computer (FMC)
 
 Welcome to the **Virtual A320 FMC** project! This is a work-in-progress application designed to simulate the functionality of an Airbus A320's Flight Management Computer (FMC) in a virtual environment. 
 Built using **Unity** and **C#**, the goal is to create an interactive and customizable FMC experience for aviation enthusiasts and students.
