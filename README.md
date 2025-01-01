@@ -8,9 +8,46 @@ Built using **Unity** and **C#**, the goal is to create an interactive and custo
 
 مرحبًا بكم في مشروع Virtual A320 FMC! هذا تطبيق قيد التطوير مصمم لمحاكاة وظائف جهاز إدارة الرحلة (FMC) لطائرة إيرباص A320 في بيئة افتراضية.
 تم تطويره باستخدام Unity و C#، والهدف هو إنشاء تجربة تفاعلية وقابلة للتخصيص لجهاز FMC مخصصة لعشاق الطيران والطلاب.
+
 ---
 
-## Features
+## About Me
+
+👨‍💻 **Unity Enthusiast**: I’ve been using Unity since high school, building immersive experiences and experimenting with game mechanics. My journey with Unity has been a cornerstone of my development as a programmer and creator.
+
+🎓 **Professional Pilot & Aeronautical Technologist**: I hold a Bachelor’s degree in Aeronautical Technology - Professional Pilot from Kansas State University in Salina. In addition, I hold **Private Pilot**, **Instrument Rating (IR)**, **Commercial Pilot**, and **Multi-Engine Ratings**, offering firsthand experience in flight training that adds credibility and trust to my aviation-related projects.
+
+🎨 **3D Artist**: My 3D modeling journey began in high school, starting with Autodesk’s 123D Design at Neyar Private School in Riyadh. Over the years, I’ve honed my skills in Blender, crafting models that bring my creative visions to life.
+
+💻 **C# Developer**: I’ve been programming in C# since intermediate school, making it my go-to language for everything from game development to simulation projects.
+
+🎮 **Game Development Passion**: Whether it’s creating games, designing 3D models, or merging the two, I’ve always been driven by a passion for building interactive, engaging experiences.
+
+
+🌟 With a love for both aviation and technology, and with real-world flight training experience, I’m on a mission to bring innovative ideas to life through code and creativity.
+
+## نبذة عني
+
+👨‍💻 **عاشق Unity**: أستخدم محرك Unity منذ أيام المدرسة الثانوية، حيث قمت بإنشاء تجارب تفاعلية وتجريب ميكانيكيات الألعاب. رحلتي مع Unity كانت حجر الأساس لتطوري كمبرمج.
+
+🎓 **طيار محترف وتقني طيران**: أحمل درجة البكالوريوس في تكنولوجيا الطيران - الطيار المحترف من جامعة ولاية كانساس في سالينا. بالإضافة إلى ذلك، أحمل شهادات **طيار خاص**، **رخصة الطيران الآلي (IR)**، **طيار تجاري**، و**تصنيف الطائرات متعددة المحركات**، مما يمنحني خبرة عملية في تدريب الطيران تضيف المصداقية والثقة لمشاريعي المتعلقة بالطيران.
+
+🎨 **فنان ثلاثي الأبعاد**: بدأت رحلتي في تصميم النماذج ثلاثية الأبعاد منذ المدرسة الثانوية باستخدام برنامج 123D Design من Autodesk في مدرسة نيار الأهلية بالرياض. على مر السنين، قمت بتطوير مهاراتي باستخدام برنامج Blender، لإنشاء نماذج تُجسّد رؤيتي الإبداعية.
+
+💻 **مطور #C**: أبرمج بلغة #C منذ أيام المدرسة المتوسطة، وأعتبرها لغتي الأساسية لكل شيء من تطوير الألعاب إلى مشاريع المحاكاة.
+
+🎮 **شغوف بتطوير الألعاب**: سواء كان الأمر يتعلق بإنشاء الألعاب، أو تصميم النماذج ثلاثية الأبعاد، أو الدمج بين الاثنين، لطالما كنت مدفوعًا بشغفي لبناء تجارب تفاعلية وممتعة.
+
+
+🌟 مع الشغف بالطيران والتكنولوجيا، وخبرة عملية في تدريب الطيران، أطمح إلى تحويل الأفكار المبتكرة إلى واقع من خلال البرمجة والإبداع.
+
+"البرمجة هي فن تحويل الخيال إلى واقع، حيث يكون كل سطر من الأكواد بمثابة ضربة فرشاة ترسم بها إمكانيات العقل اللامتناهية."
+
+
+---
+
+
+## App Features
 
 - 🛫 **Realistic FMC Interface**: Mimics the look and feel of the A320 FMC.
 - 🔤 **Dynamic Input System**: Handles various FMC button states and page-specific inputs.
@@ -18,7 +55,7 @@ Built using **Unity** and **C#**, the goal is to create an interactive and custo
 - 📜 **Scriptable Object Design**: Modular structure for easier feature expansion and customization.
 - 🛠️ **Backend Integration**: Processes and writes flight-related data in real-time.
 
-## الميزات
+## مميزات التطبيق
 
 - 🛫 **واجهة FMC واقعية**: تحاكي مظهر ووظائف جهاز FMC لطائرة A320.
 - 🔤 **نظام إدخال ديناميكي**: يتعامل مع حالات الأزرار المختلفة والإدخالات الخاصة بكل صفحة.
@@ -50,7 +87,7 @@ This project includes the following core components:
 
 ## FMC Preview الواجهة
 
-![FMC Preview](https://github.com/FSGAM3R/AMFMC-Standalone/releases/download/v1.0.2/FMC.Preview.png "Virtual A320 FMC Preview")
+![FMC Preview]("https://github.com/AbdulazizAlmawash/AMFMC-Standalone/releases/download/v1.0.3/FMC.Preview.png")
 
 This image showcases the interface of the virtual A320 FMC. Stay tuned for more updates and improvements!
 
