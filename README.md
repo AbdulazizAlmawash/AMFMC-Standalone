@@ -87,7 +87,7 @@ This project includes the following core components:
 
 ## FMC Preview الواجهة
 
-![FMC Preview]("https://github.com/AbdulazizAlmawash/AMFMC-Standalone/blob/main/preview.png?raw=true")
+![FMC Preview]("https://github.com/AbdulazizAlmawash/AMFMC-Standalone/blob/main/preview.png")
 
 This image showcases the interface of the virtual A320 FMC. Stay tuned for more updates and improvements!
 
