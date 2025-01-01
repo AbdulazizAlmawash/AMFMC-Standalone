@@ -87,7 +87,7 @@ This project includes the following core components:
 
 ## FMC Preview الواجهة
 
-![FMC Preview]("https://i.ibb.co/JndXXjr/preview.png")
+![FMC Preview]("https://thumbs.dreamstime.com/b/flight-management-computer-fmc-airbus-59334345.jpg")
 
 This image showcases the interface of the virtual A320 FMC. Stay tuned for more updates and improvements!
 
