@@ -12,6 +12,7 @@ Library: D:\Unity Projects\AMFMC Prototype\Temp\BurstOutput\Data\Plugins\x86_64\
 --linker-options=PdbAltPath="AMFMC_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\AMFMC Prototype\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\AMFMC Prototype\Library\Burst
 --output=D:\Unity Projects\AMFMC Prototype\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -32,6 +33,7 @@ Library: D:\Unity Projects\AMFMC Prototype\Temp\BurstOutput\Data\Plugins\x86_64\
 --linker-options=PdbAltPath="AMFMC_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\AMFMC Prototype\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\AMFMC Prototype\Library\Burst
 --output=D:\Unity Projects\AMFMC Prototype\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -50,6 +52,7 @@ Library: D:\Unity Projects\AMFMC Prototype\Temp\BurstOutput\Data\Plugins\x86_64\
 --linker-options=PdbAltPath="AMFMC_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\AMFMC Prototype\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\AMFMC Prototype\Library\Burst
 --output=D:\Unity Projects\AMFMC Prototype\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -156,6 +159,7 @@ Library: D:\Unity Projects\AMFMC Prototype\Temp\BurstOutput\Data\Plugins\x86_64\
 --linker-options=PdbAltPath="AMFMC_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\AMFMC Prototype\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\AMFMC Prototype\Library\Burst
 --output=D:\Unity Projects\AMFMC Prototype\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated

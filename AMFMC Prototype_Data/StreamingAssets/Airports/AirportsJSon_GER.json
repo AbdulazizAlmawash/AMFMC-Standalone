@@ -1,0 +1,165 @@
+{
+    "Airports":
+    [
+        {
+            "ICAO": "EDDF",
+            "IATA": "FRA",
+            "Name": "Frankfurt am Main Airport",
+            "Latitude": 50.0333,
+            "Longitude": 8.5706,
+            "Elevation": 364
+        },
+        {
+            "ICAO": "EDDM",
+            "IATA": "MUC",
+            "Name": "Munich Airport",
+            "Latitude": 48.3538,
+            "Longitude": 11.7861,
+            "Elevation": 1487
+        },
+        {
+            "ICAO": "EDDB",
+            "IATA": "BER",
+            "Name": "Berlin Brandenburg Airport",
+            "Latitude": 52.3667,
+            "Longitude": 13.5033,
+            "Elevation": 157
+        },
+        {
+            "ICAO": "EDDL",
+            "IATA": "DUS",
+            "Name": "Düsseldorf Airport",
+            "Latitude": 51.2895,
+            "Longitude": 6.7668,
+            "Elevation": 147
+        },
+        {
+            "ICAO": "EDDH",
+            "IATA": "HAM",
+            "Name": "Hamburg Airport",
+            "Latitude": 53.6304,
+            "Longitude": 9.9882,
+            "Elevation": 53
+        },
+        {
+            "ICAO": "EDDS",
+            "IATA": "STR",
+            "Name": "Stuttgart Airport",
+            "Latitude": 48.6899,
+            "Longitude": 9.2219,
+            "Elevation": 1276
+        },
+        {
+            "ICAO": "EDDK",
+            "IATA": "CGN",
+            "Name": "Cologne Bonn Airport",
+            "Latitude": 50.8659,
+            "Longitude": 7.1427,
+            "Elevation": 302
+        },
+        {
+            "ICAO": "EDDV",
+            "IATA": "HAJ",
+            "Name": "Hannover Airport",
+            "Latitude": 52.4611,
+            "Longitude": 9.6850,
+            "Elevation": 183
+        },
+        {
+            "ICAO": "EDDP",
+            "IATA": "LEJ",
+            "Name": "Leipzig/Halle Airport",
+            "Latitude": 51.4239,
+            "Longitude": 12.2364,
+            "Elevation": 470
+        },
+        {
+            "ICAO": "EDDN",
+            "IATA": "NUE",
+            "Name": "Nuremberg Airport",
+            "Latitude": 49.4987,
+            "Longitude": 11.0669,
+            "Elevation": 1046
+        },
+        {
+            "ICAO": "EDLW",
+            "IATA": "DTM",
+            "Name": "Dortmund Airport",
+            "Latitude": 51.5183,
+            "Longitude": 7.6122,
+            "Elevation": 425
+        },
+        {
+            "ICAO": "EDFH",
+            "IATA": "HHN",
+            "Name": "Frankfurt-Hahn Airport",
+            "Latitude": 49.9487,
+            "Longitude": 7.2639,
+            "Elevation": 1649
+        },
+        {
+            "ICAO": "EDLP",
+            "IATA": "PAD",
+            "Name": "Paderborn Lippstadt Airport",
+            "Latitude": 51.6141,
+            "Longitude": 8.6163,
+            "Elevation": 699
+        },
+        {
+            "ICAO": "EDJA",
+            "IATA": "FMM",
+            "Name": "Memmingen Airport",
+            "Latitude": 47.9888,
+            "Longitude": 10.2395,
+            "Elevation": 2077
+        },
+        {
+            "ICAO": "EDLN",
+            "IATA": "MGL",
+            "Name": "Mönchengladbach Airport",
+            "Latitude": 51.2300,
+            "Longitude": 6.5044,
+            "Elevation": 125
+        },
+        {
+            "ICAO": "EDDC",
+            "IATA": "DRS",
+            "Name": "Dresden Airport",
+            "Latitude": 51.1328,
+            "Longitude": 13.7672,
+            "Elevation": 755
+        },
+        {
+            "ICAO": "EDHL",
+            "IATA": "LBC",
+            "Name": "Lübeck Airport",
+            "Latitude": 53.8054,
+            "Longitude": 10.7192,
+            "Elevation": 53
+        },
+        {
+            "ICAO": "EDNY",
+            "IATA": "FDH",
+            "Name": "Friedrichshafen Airport",
+            "Latitude": 47.6713,
+            "Longitude": 9.5115,
+            "Elevation": 1367
+        },
+        {
+            "ICAO": "EDSB",
+            "IATA": "FKB",
+            "Name": "Karlsruhe/Baden-Baden Airport",
+            "Latitude": 48.7794,
+            "Longitude": 8.0805,
+            "Elevation": 408
+        },
+        {
+            "ICAO": "EDXW",
+            "IATA": "GWT",
+            "Name": "Sylt Airport",
+            "Latitude": 54.9132,
+            "Longitude": 8.3405,
+            "Elevation": 51
+        }
+    ]
+}
