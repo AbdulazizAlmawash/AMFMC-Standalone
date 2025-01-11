@@ -15,7 +15,7 @@ Built using **Unity** and **C#**, the goal is to create an interactive and custo
 
 👨‍💻 **Unity Enthusiast**: I’ve been using Unity since high school, building immersive experiences and experimenting with game mechanics. My journey with Unity has been a cornerstone of my development as a programmer and creator.
 
-🎓 **Professional Pilot & Aeronautical Technologist**: I hold a Bachelor’s degree in Aeronautical Technology - Professional Pilot from Kansas State University in Salina. In addition, I hold **Private Pilot**, **Instrument Rating (IR)**, **Commercial Pilot**, and **Multi-Engine Ratings**, offering firsthand experience in flight training that adds credibility and trust to my aviation-related projects.
+🎓 **Flight School Graduate**: I hold a Bachelor’s degree in Aeronautical Technology - Professional Pilot from Kansas State University in Salina. In addition, I hold **Private Pilot**, **Instrument Rating (IR)**, **Commercial Pilot**, and **Multi-Engine Ratings**, offering firsthand experience in flight training that adds credibility and trust to my aviation-related projects.
 
 🎨 **3D Artist**: My 3D modeling journey began in high school, starting with Autodesk’s 123D Design at Neyar Private School in Riyadh. Over the years, I’ve honed my skills in Blender, crafting models that bring my creative visions to life.
 
@@ -30,7 +30,7 @@ Built using **Unity** and **C#**, the goal is to create an interactive and custo
 
 👨‍💻 **عاشق Unity**: أستخدم محرك Unity منذ أيام المدرسة الثانوية، حيث قمت بإنشاء تجارب تفاعلية وتجريب ميكانيكيات الألعاب. رحلتي مع Unity كانت حجر الأساس لتطوري كمبرمج.
 
-🎓 **طيار محترف وتقني طيران**: أحمل درجة البكالوريوس في تكنولوجيا الطيران - الطيار الاحترافي من جامعة ولاية كانساس في سالينا. بالإضافة إلى ذلك، أحمل رخص **طيار خاص**، **رخصة الطيران الآلي (IR)**، **طيار تجاري**، و**تصنيف الطائرات متعددة المحركات**، مما يمنحني خبرة عملية في تدريب الطيران تضيف المصداقية والثقة لمشاريعي المتعلقة بالطيران.
+🎓 **خريج طيران**: أحمل درجة البكالوريوس في تكنولوجيا الطيران - الطيار الاحترافي من جامعة ولاية كانساس في سالينا. بالإضافة إلى ذلك، أحمل رخص **طيار خاص**، **رخصة الطيران الآلي (IR)**، **طيار تجاري**، و**تصنيف الطائرات متعددة المحركات**، مما يمنحني خبرة عملية في تدريب الطيران تضيف المصداقية والثقة لمشاريعي المتعلقة بالطيران.
 
 🎨 **فنان ثلاثي الأبعاد**: بدأت رحلتي في تصميم النماذج ثلاثية الأبعاد منذ المدرسة الثانوية باستخدام برنامج 123D Design من Autodesk في مدرسة نيار الأهلية بالرياض. على مر السنين، قمت بتطوير مهاراتي باستخدام برنامج Blender، لإنشاء نماذج تُجسّد رؤيتي الإبداعية.
 
