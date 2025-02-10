@@ -1,0 +1,30 @@
+{
+    "id": "0",
+    "name": "Flightplan_Template",
+    "description": "This is a template for a flightplan",
+    "airline_name": "SAUDIA",
+    "airline_icao": "SVA",
+    "flight_number": "123",
+
+    "departure_airport": "OERK",
+    "arrival_airport": "OMDB",
+    
+    "aircraft": "A320",
+    "engines": "CFM56-5B4",
+
+    "blockFuel": "10000",
+    "cruise_FL": "FL350",
+    "cruise_speed_knots": "0.78",
+
+    "SOB": "65",
+    "crew": "6",
+    
+    "departure_runway": "33L",
+    "arrival_runway": "30L",
+
+    "departure_SID": "SID1",
+    "arrival_STAR": "STAR1",
+
+    "flight_rules": "IFR",
+    "route": "DCT OMDB"
+}
