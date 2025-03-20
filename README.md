@@ -11,6 +11,12 @@ Built using **Unity** and **C#**, the goal is to create an interactive and custo
 
 ---
 
+Download the latest stable release | تحميل أخر اصدار مستقر
+![Page](https://github.com/AbdulazizAlmawash/AMFMC-Standalone/releases/tag/v1.0.5.0)
+
+---
+
+
 ## About Me
 
 👨‍💻 **Unity Enthusiast**: I’ve been using Unity since high school, building immersive experiences and experimenting with game mechanics. My journey with Unity has been a cornerstone of my development as a programmer and creator.
