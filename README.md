@@ -14,6 +14,9 @@ Built using **Unity** and **C#**, the goal is to create an interactive and custo
 ## Download the latest stable release | تحميل أخر اصدار مستقر
 https://github.com/AbdulazizAlmawash/AMFMC-Standalone/releases/tag/v1.0.5.0
 
+## Find AMFMC on Itch.Io
+<iframe frameborder="0" src="https://itch.io/embed/3412177?linkback=true" width="552" height="167"><a href="https://abdulazizalmawash.itch.io/amfmc-a-simplified-a320-flight-management-computer">AMFMC: A Simplified A320 Flight Management Computer by Abdulaziz Almawash</a></iframe>
+
 ---
 
 
