@@ -64,6 +64,8 @@ https://itch.io/game/widget/3412177
 - 🛫 **Realistic FMC Interface**: Mimics the look and feel of the A320 FMC.
 - 🔤 **Dynamic Input System**: Handles various FMC button states and page-specific inputs.
 - 🌐 **Airports Database**: Implements an expandable airports database using JSON.
+- 🌐 **Runways Database**: Implements an expandable runways database using JSON.
+- 🌐 **NAVAID Database**: Implements an expandable NAVAIDs database using JSON.
 - 📜 **Scriptable Object Design**: Modular structure for easier feature expansion and customization.
 - 🛠️ **Backend Integration**: Processes and writes flight-related data in real-time.
 
