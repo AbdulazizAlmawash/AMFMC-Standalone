@@ -14,7 +14,7 @@ Built using **Unity** and **C#**, the goal is to create an interactive and custo
 ## Download the latest stable release | تحميل أخر اصدار مستقر
 https://github.com/AbdulazizAlmawash/AMFMC-Standalone/releases/tag/v1.0.5
 
-## Find AMFMC on Itch.Io صفحة التطبيق على منصة
+## Find AMFMC on 'Itch.Io' صفحة التطبيق على منصة
 https://itch.io/game/widget/3412177
 
 ---
