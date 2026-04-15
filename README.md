@@ -6,7 +6,8 @@ This repository is intended for distributing standalone builds (not the full Uni
 
 ## Download
 
-- Recommended: download the latest build from the repository’s Releases page.
+- Recommended: download the latest build from the repository’s Releases page:
+  https://github.com/AbdulazizAlmawash/AMFMC-Standalone/releases
 - Alternative: if an archive is provided in this repository, extract it locally before running.
 
 ## Requirements
