@@ -33,7 +33,3 @@ If you run into import/build issues, open an issue with your Unity version, plat
 ## Disclaimer
 
 VERA is an independent project and is not affiliated with or endorsed by Airbus.
-
-## License
-
-No license has been specified yet. If you plan to distribute or contribute, please confirm the intended license in the repository settings and add an appropriate `LICENSE` file.
