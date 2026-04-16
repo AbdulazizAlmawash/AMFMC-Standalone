@@ -23,14 +23,6 @@ VERA is a Unity-based Airbus A320–style FMC/MCDU training prototype focused on
 
 If you run into import/build issues, open an issue with your Unity version, platform, and the relevant Console errors.
 
-## Contributing
-
-Contributions are welcome as the project matures:
-
-- Use Issues for bugs, UX improvements, and feature proposals.
-- Keep changes focused and easy to review.
-- Prefer improvements that reduce manual scene/Inspector setup.
-
 ## Roadmap (High-Level)
 
 - Expand FMC page coverage with consistent interaction patterns
