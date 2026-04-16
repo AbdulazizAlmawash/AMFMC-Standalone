@@ -1,132 +1,47 @@
-# VERA Standalone
+# VERA (Unity A320-style FMC/MCDU Prototype)
 
-VERA is a Windows standalone training application that presents an Airbus A320-style Flight Management Computer (FMC) interface and workflows for learning and practice.
+VERA is a Unity-based Airbus A320–style FMC/MCDU training prototype focused on page navigation, line-select/keypad interaction, and responsive UI feedback. It’s built for learning, UI iteration, and rapid experimentation—not for full aircraft systems simulation.
 
-This repository is intended for distributing standalone builds (not the full Unity source project).
+## Highlights
 
-## Download
+- Airbus A320–inspired FMC/MCDU UX prototype (pages, prompts, and interaction flow)
+- Fast UI iteration: prioritize clear visuals and predictable input behavior
+- Built in Unity (see `ProjectSettings/ProjectVersion.txt` for the exact editor version)
+- Designed to grow: structured to add pages, behaviors, and polish over time
 
-- Recommended: download the latest build from the repository’s Releases page:
-  https://github.com/AbdulazizAlmawash/AMFMC-Standalone/releases
-- Alternative: if an archive is provided in this repository, extract it locally before running.
+## What This Project Is (and Isn’t)
 
-## Requirements
+**VERA is:** an educational and development-focused prototype that helps you explore FMC UI behaviors and workflows.
 
-- Windows 10/11 (64-bit)
+**VERA is not:** a certified avionics product, a flight simulator, or a complete A320 systems simulation.
 
-## Run
+## Getting Started
 
-1. Download and extract the build to a folder.
-2. Run `# AMFMC Standalone
+1. Clone the repository.
+2. Open the project in Unity using the version specified in `ProjectSettings/ProjectVersion.txt`.
+3. Press Play and use the in-app UI to access the FMC experience.
 
-VERA is a Windows standalone training application that presents an Airbus A320-style Flight Management Computer (FMC) interface and workflows for learning and practice.
+If you run into import/build issues, open an issue with your Unity version, platform, and the relevant Console errors.
 
-This repository is intended for distributing standalone builds (not the full Unity source project).
+## Contributing
 
-## Download
+Contributions are welcome as the project matures:
 
-- Recommended: download the latest build from the repository’s Releases page:
-  https://github.com/AbdulazizAlmawash/AMFMC-Standalone/releases
-- Alternative: if an archive is provided in this repository, extract it locally before running.
+- Use Issues for bugs, UX improvements, and feature proposals.
+- Keep changes focused and easy to review.
+- Prefer improvements that reduce manual scene/Inspector setup.
 
-## Requirements
+## Roadmap (High-Level)
 
-- Windows 10/11 (64-bit)
-
-## Run
-
-1. Download and extract the build to a folder.
-2. Run `# VERA Standalone
-
-VERA is a Windows standalone training application that presents an Airbus A320-style Flight Management Computer (FMC) interface and workflows for learning and practice.
-
-This repository is intended for distributing standalone builds (not the full Unity source project).
-
-## Download
-
-- Recommended: download the latest build from the repository’s Releases page:
-  https://github.com/AbdulazizAlmawash/AMFMC-Standalone/releases
-- Alternative: if an archive is provided in this repository, extract it locally before running.
-
-## Requirements
-
-- Windows 10/11 (64-bit)
-
-## Run
-
-1. Download and extract the build to a folder.
-2. Run `VERA.exe`.
-3. Keep all companion folders next to the executable (for example `*_Data`, `MonoBleedingEdge`).
-
-## Features (high level)
-
-- A320-style FMC UI and page navigation
-- Dynamic keypad/LSK input and page-driven interactions
-- Local navigation data (airports/runways/navaids) packaged with the app
-
-## Troubleshooting
-
-### Antivirus false positives
-
-Some antivirus tools may flag `VERA.exe` or bundled files. This can happen due to packaging/heuristics and does not necessarily indicate malware.
-
-- Download builds only from official repository releases.
-- If needed, add the extracted folder to your antivirus exclusions.
-
-## Feedback
-
-- Use Issues for bug reports and Discussions for questions and suggestions (if enabled on the repository).
+- Expand FMC page coverage with consistent interaction patterns
+- Improve visual polish and usability
+- Add better test coverage for UI behaviors and input flows
+- Produce clearer documentation for contributors and page authors
 
 ## Disclaimer
 
-VERA is an unofficial training application and is not affiliated with or endorsed by Airbus. All trademarks are the property of their respective owners.
-.exe`.
-3. Keep all companion folders next to the executable (for example `*_Data`, `MonoBleedingEdge`).
+VERA is an independent project and is not affiliated with or endorsed by Airbus.
 
-## Features (high level)
+## License
 
-- A320-style FMC UI and page navigation
-- Dynamic keypad/LSK input and page-driven interactions
-- Local navigation data (airports/runways/navaids) packaged with the app
-
-## Troubleshooting
-
-### Antivirus false positives
-
-Some antivirus tools may flag `VERA.exe` or bundled files. This can happen due to packaging/heuristics and does not necessarily indicate malware.
-
-- Download builds only from official repository releases.
-- If needed, add the extracted folder to your antivirus exclusions.
-
-## Feedback
-
-- Use Issues for bug reports and Discussions for questions and suggestions (if enabled on the repository).
-
-## Disclaimer
-
-VERA is an unofficial training application and is not affiliated with or endorsed by Airbus. All trademarks are the property of their respective owners.
-.exe`.
-3. Keep all companion folders next to the executable (for example `*_Data`, `MonoBleedingEdge`).
-
-## Features (high level)
-
-- A320-style FMC UI and page navigation
-- Dynamic keypad/LSK input and page-driven interactions
-- Local navigation data (airports/runways/navaids) packaged with the app
-
-## Troubleshooting
-
-### Antivirus false positives
-
-Some antivirus tools may flag `VERA.exe` or bundled files. This can happen due to packaging/heuristics and does not necessarily indicate malware.
-
-- Download builds only from official repository releases.
-- If needed, add the extracted folder to your antivirus exclusions.
-
-## Feedback
-
-- Use Issues for bug reports and Discussions for questions and suggestions (if enabled on the repository).
-
-## Disclaimer
-
-VERA is an unofficial training application and is not affiliated with or endorsed by Airbus. All trademarks are the property of their respective owners.
+No license has been specified yet. If you plan to distribute or contribute, please confirm the intended license in the repository settings and add an appropriate `LICENSE` file.
