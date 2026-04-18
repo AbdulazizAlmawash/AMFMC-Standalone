@@ -2,6 +2,9 @@
 
 VERA is a Unity-based Airbus A320–style FMC/MCDU training prototype focused on page navigation, line-select/keypad interaction, and responsive UI feedback. It’s built for learning, UI iteration, and rapid experimentation—not for full aircraft systems simulation.
 
+Download VERA:
+https://abdulazizalmawash.itch.io/vera
+
 ## Highlights
 
 - Airbus A320–inspired FMC/MCDU UX prototype (pages, prompts, and interaction flow)
